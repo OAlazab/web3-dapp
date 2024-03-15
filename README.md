@@ -34,4 +34,4 @@ This project is a decentralized application (DApp) built on the Ethereum blockch
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/OAlazab/web3-dapp
